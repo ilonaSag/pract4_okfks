@@ -20,3 +20,4 @@ C:\Users\st310-06\Documents\Сагутдинова\okfks4\GeometryShape\obj\Debu
 C:\Users\st310-06\Documents\Сагутдинова\okfks4\GeometryShape\obj\Debug\net8.0\refint\GeometryShape.dll
 C:\Users\st310-06\Documents\Сагутдинова\okfks4\GeometryShape\obj\Debug\net8.0\GeometryShape.pdb
 C:\Users\st310-06\Documents\Сагутдинова\okfks4\GeometryShape\obj\Debug\net8.0\ref\GeometryShape.dll
+C:\Users\st310-06\Documents\Сагутдинова\okfks4\GeometryShape\obj\Debug\net8.0\GeometryShape.sourcelink.json
