@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RectangleTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b57a794835b6e52bd63e18a809a1d30a3c68d23d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f98ebd585eff8e84ec93ee53ca6a17e6c1ceacca")]
 [assembly: System.Reflection.AssemblyProductAttribute("RectangleTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RectangleTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
